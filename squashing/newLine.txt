@@ -1,0 +1,1 @@
+this is a file with charaters and we have to remove charaterts from this without adding commit history
